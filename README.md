@@ -6,9 +6,9 @@ Software engineering student at **1337 (42 Network)** — I build things from th
  
 ## Stats
  
-![Kamal's GitHub Stats](https://github-readme-stats-eight-virid-38.vercel.app/api?username=kamal98ETH&show_icons=true&hide_border=true&theme=default&rank_icon=github&include_all_commits=true&hide=stars)
+![Kamal's GitHub Stats](https://github-readme-stats-five-gilt-76.vercel.app/api?username=kamal98ETH&show_icons=true&hide_border=true&theme=default&rank_icon=github&include_all_commits=true&hide=stars)
  
-![Top Languages](https://github-readme-stats-eight-virid-38.vercel.app/api/top-langs/?username=kamal98ETH&layout=compact&hide_border=true&theme=default&langs_count=8)
+![Top Languages](https://github-readme-stats-five-gilt-76.vercel.app/api/top-langs/?username=kamal98ETH&layout=compact&hide_border=true&theme=default&langs_count=8)
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=kamal98eth&hide_border=true&theme=default)
  
